@@ -1,0 +1,1 @@
+write a JSX expression which is nested inside of a JavaScript map function, which is used to render a list of items.The JSX expression should consists of a li element for each item in the items array. (When the component is rendered, the resulting HTML will be a list)
